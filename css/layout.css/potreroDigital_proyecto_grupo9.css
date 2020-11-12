@@ -1,0 +1,211 @@
+.nav{
+  margin-top: 4%;
+}
+#imagen_logo{
+  height: 100px;
+  width: 150px;
+}
+
+.navbar-header{
+  margin-left: -10%;
+}
+.nav_header{
+
+  margin-right: -11%;
+}
+
+.formulario{
+  padding-top: 2%;
+}
+.nombre{
+  padding-top: 20%;
+  font-size: 2.0rem;
+}
+.span{
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+  header{
+  width: 100%;
+}
+#seccion1,#seccion2,#seccion3{
+  background-color: #D3D3D3;
+  border: black 1px solid;
+}
+#invitacion{
+  margin-top: -4%;
+  width: 200px;
+  height: 200px;
+}
+.titulos{
+  margin-bottom: 2%;
+  text-align: center;
+}
+.titulo3{
+  text-align: center;
+  color: blue;
+}
+.texto2{
+  text-align: center;
+}
+figure{
+margin: 1%;
+}
+.quienes_somos{
+
+padding-left: 15%;
+}
+
+.media{
+padding-top: 5%;
+padding-bottom: 2%;
+}
+
+#guia{
+width: 100%;
+height: 300px;
+}
+#quienessomos{
+width: 100%;
+height: 300px;
+}
+#invi{
+  width: 100%;
+  height: 300px;
+}
+#galeria-cursos{
+width: 100%;
+max-width: 960px;
+}
+#seccion-cursos{
+  margin-top: 2%;
+  width: 100%;
+}
+.texto{
+  margin:5%;
+  padding-right: 7%;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+}
+#form-2{
+padding-right: 4%;
+}
+.curso-imagen{
+  width: 90%;
+height: 300px;
+}
+#patrocinadores{
+  padding-left: 2%;
+}
+.rounded-circle{
+  height: 50px;
+  width: 50px;
+  margin:1%;
+}
+h5{
+  font-weight: bold;
+}
+
+h4{
+    padding-bottom: 5%;
+   padding-top: 5%;
+   font-style: italic;
+  }
+  p{
+    font-weight: bold;
+    font-style: italic;
+  }
+footer{
+  width: 100%;
+}
+
+ul,li{
+  list-style: none;
+  text-align: center;
+}
+#parrafo{
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+
+@media (max-width: 576px) {
+.formulario_nav{
+  display: none;
+}
+.navbar-header{
+ padding-top: 1%;
+  margin-right: 30%;
+}
+.formulario_inscripciones{
+  padding-top: 8%;
+}
+
+#imagen_logo{
+display: none;
+}
+span{
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.quienes_somos{
+display: none;
+
+}
+
+.patrocinadores{
+  margin-left: 23%;
+}
+#invitacion{
+  height: 100px;
+  width: 100px;
+margin: auto;
+padding: auto;
+}
+.seccion2{
+  margin-top: -2%;
+}
+article{
+  width: auto;
+  height: auto;
+  margin-left: 2%;
+}
+#titulo5{
+  font-size: 1.5rem;
+}
+.contenido-seccion3{
+  font-style: italic;
+  font-size: 20%;
+  font-weight: bold;
+}
+#aprendizaje{
+  width: 60px;
+  height: 60px;
+}
+#cursos{
+  width: 60px;
+  height: 60px;
+}
+.Cursos{
+margin-right: 40%;
+
+}
+#id{
+  margin-right: 5%;
+}
+.curso-imagen {
+    width: 90%;
+    height: 300px;
+    margin-left: 6%;
+}
+a{
+  text-decoration-style: none;
+}
+
+}

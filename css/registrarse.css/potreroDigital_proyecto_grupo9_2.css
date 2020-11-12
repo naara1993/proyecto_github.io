@@ -1,0 +1,48 @@
+header{
+  background-color: blue;
+  height: 15vh;
+  width: 100%;
+}
+footer{
+  background-color: blue;
+  height: 15vh;
+  width: 100%;
+}
+span{
+  color:blue;
+}
+.section{
+  margin-top: 5%;
+}
+.container_principal{
+
+  width: 30%;
+  margin-bottom: 10%;
+}
+.login_from{
+border: black 2px solid;
+   box-shadow: 0 0 50px 0 rgba(84, 84, 84, 0.62);
+}
+.login_from_title{
+padding-right: 15%;
+	text-align: center;
+margin: 1%;
+font-style: italic;
+}
+.login_from_email{
+	padding-left: 20%;
+	margin: 3%;
+}
+.login_from_password{
+padding-left: 20%;
+margin: 3%
+}
+.login_from_confi_password{
+padding-left: 20%;
+margin:3%;
+}
+.login_from_button{
+text-align: center;
+margin: 5%;
+margin-left: -5%;
+}
